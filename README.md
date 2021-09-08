@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritesh-kushwaha
 - 👀 I’m interested in Computer Programming, Web Development and IoT
-- 🌱 I’m currently pursuing B.Tech in Information Technology
+- 🌱 I’m B.Tech in Information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
